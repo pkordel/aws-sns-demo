@@ -1,2 +1,4 @@
 new_user_credentials.csv
 .aws/
+node_modules/
+.vscode/
